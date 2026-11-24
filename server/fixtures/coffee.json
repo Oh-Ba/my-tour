@@ -1,0 +1,68 @@
+[
+  {
+    "id": "coffee_001",
+    "name": "Blue Bottle Coffee - Ferry Building",
+    "lat": 37.7955,
+    "lon": -122.3937,
+    "snippet": "Single-origin pour overs & espresso with bay views.",
+    "rating": 4.7
+  },
+  {
+    "id": "coffee_002",
+    "name": "Sightglass Coffee",
+    "lat": 37.7764,
+    "lon": -122.4080,
+    "snippet": "SoMa flagship roastery with airy seating & bakery bites.",
+    "rating": 4.6
+  },
+  {
+    "id": "coffee_003",
+    "name": "Philz Coffee - Mission",
+    "lat": 37.7523,
+    "lon": -122.4187,
+    "snippet": "Custom pour-over blends and friendly vibe.",
+    "rating": 4.5
+  },
+  {
+    "id": "coffee_004",
+    "name": "Ritual Coffee Roasters",
+    "lat": 37.7560,
+    "lon": -122.4216,
+    "snippet": "Neighborhood standby for meticulously sourced beans.",
+    "rating": 4.6
+  },
+  {
+    "id": "coffee_005",
+    "name": "Andytown Coffee Roasters",
+    "lat": 37.7607,
+    "lon": -122.5065,
+    "snippet": "Outer Sunset cafe famous for Snowy Plover espresso soda.",
+    "rating": 4.8
+  },
+  {
+    "id": "coffee_006",
+    "name": "Linea Caffe",
+    "lat": 37.7603,
+    "lon": -122.4154,
+    "snippet": "Micro-roaster with espresso flights and waffles.",
+    "rating": 4.4
+  },
+  {
+    "id": "coffee_007",
+    "name": "Saint Frank Coffee",
+    "lat": 37.8006,
+    "lon": -122.4376,
+    "snippet": "Polished Russian Hill cafe with Scandinavian design.",
+    "rating": 4.6
+  },
+  {
+    "id": "coffee_008",
+    "name": "Four Barrel Coffee",
+    "lat": 37.7670,
+    "lon": -122.4210,
+    "snippet": "Mission District roastery with expertly pulled shots.",
+    "rating": 4.5
+  }
+]
+
+

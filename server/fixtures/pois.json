@@ -1,0 +1,122 @@
+[
+  {
+    "id": "poi_001",
+    "name": "Golden Gate Bridge",
+    "categories": ["landmark", "viewpoint"],
+    "lat": 37.8199,
+    "lon": -122.4783,
+    "snippet": "Iconic suspension bridge spanning the Golden Gate strait"
+  },
+  {
+    "id": "poi_002",
+    "name": "Fisherman's Wharf",
+    "categories": ["restaurant", "shopping"],
+    "lat": 37.8080,
+    "lon": -122.4177,
+    "snippet": "Historic waterfront area with seafood restaurants and shops"
+  },
+  {
+    "id": "poi_003",
+    "name": "Alcatraz Island",
+    "categories": ["museum", "landmark"],
+    "lat": 37.8267,
+    "lon": -122.4233,
+    "snippet": "Former federal prison, now a fascinating museum"
+  },
+  {
+    "id": "poi_004",
+    "name": "Coit Tower",
+    "categories": ["landmark", "viewpoint"],
+    "lat": 37.8024,
+    "lon": -122.4058,
+    "snippet": "Art Deco tower with panoramic views of the city"
+  },
+  {
+    "id": "poi_005",
+    "name": "Palace of Fine Arts",
+    "categories": ["landmark", "park"],
+    "lat": 37.8025,
+    "lon": -122.4487,
+    "snippet": "Monumental structure with beautiful lagoon and gardens"
+  },
+  {
+    "id": "poi_006",
+    "name": "Chinatown Gate",
+    "categories": ["landmark", "shopping"],
+    "lat": 37.7908,
+    "lon": -122.4058,
+    "snippet": "Entrance to the oldest Chinatown in North America"
+  },
+  {
+    "id": "poi_007",
+    "name": "Lombard Street",
+    "categories": ["landmark", "viewpoint"],
+    "lat": 37.8021,
+    "lon": -122.4187,
+    "snippet": "The famous crooked street with eight hairpin turns"
+  },
+  {
+    "id": "poi_008",
+    "name": "Ferry Building",
+    "categories": ["restaurant", "shopping"],
+    "lat": 37.7956,
+    "lon": -122.3933,
+    "snippet": "Historic ferry terminal with artisan food market"
+  },
+  {
+    "id": "poi_009",
+    "name": "Exploratorium",
+    "categories": ["museum", "education"],
+    "lat": 37.8015,
+    "lon": -122.3974,
+    "snippet": "Interactive science museum on Pier 15"
+  },
+  {
+    "id": "poi_010",
+    "name": "Twin Peaks",
+    "categories": ["viewpoint", "park"],
+    "lat": 37.7544,
+    "lon": -122.4477,
+    "snippet": "Highest point in San Francisco with 360-degree views"
+  },
+  {
+    "id": "poi_011",
+    "name": "Golden Gate Park",
+    "categories": ["park", "nature"],
+    "lat": 37.7694,
+    "lon": -122.4862,
+    "snippet": "Large urban park with gardens, museums, and trails"
+  },
+  {
+    "id": "poi_012",
+    "name": "Japanese Tea Garden",
+    "categories": ["park", "nature"],
+    "lat": 37.7701,
+    "lon": -122.4701,
+    "snippet": "Historic Japanese garden with tea house and koi ponds"
+  },
+  {
+    "id": "poi_013",
+    "name": "de Young Museum",
+    "categories": ["museum", "art"],
+    "lat": 37.7712,
+    "lon": -122.4686,
+    "snippet": "Fine arts museum in Golden Gate Park"
+  },
+  {
+    "id": "poi_014",
+    "name": "California Academy of Sciences",
+    "categories": ["museum", "education"],
+    "lat": 37.7699,
+    "lon": -122.4661,
+    "snippet": "Natural history museum with planetarium and aquarium"
+  },
+  {
+    "id": "poi_015",
+    "name": "Painted Ladies",
+    "categories": ["landmark", "viewpoint"],
+    "lat": 37.7762,
+    "lon": -122.4330,
+    "snippet": "Famous row of colorful Victorian houses"
+  }
+]

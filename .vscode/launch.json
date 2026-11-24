@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "My Tour (testing: as if in Catania)",
+      "request": "launch",
+      "type": "dart",
+      "preLaunchTask": "Connect phone to local server (USB)",
+      "toolArgs": [
+        "--dart-define=TEST_LOCATION=37.5079,15.0830"
+      ]
+    },
+    {
+      "name": "My Tour (my real location)",
+      "request": "launch",
+      "type": "dart",
+      "preLaunchTask": "Connect phone to local server (USB)"
+    },
+    {
+      "name": "My Tour DEV (developer mode, as if in Catania)",
+      "request": "launch",
+      "type": "dart",
+      "preLaunchTask": "Connect phone to local server (USB)",
+      "toolArgs": [
+        "--dart-define-from-file=dev.local.json"
+      ]
+    },
+    {
+      "name": "My Tour DEV (over the network, no USB link)",
+      "request": "launch",
+      "type": "dart",
+      "toolArgs": [
+        "--dart-define-from-file=dev.local.json",
+        "--dart-define=API_BASE_URL=http://192.168.0.100:1402"
+      ]
+    }
+  ]
+}

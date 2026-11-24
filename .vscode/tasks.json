@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Connect phone to local server (USB)",
+      "detail": "Lets the Android phone reach the server on this computer through the USB cable.",
+      "type": "shell",
+      "command": "adb reverse tcp:1402 tcp:1402",
+      "presentation": { "reveal": "silent" },
+      "problemMatcher": []
+    }
+  ]
+}
